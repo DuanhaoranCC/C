@@ -6,7 +6,7 @@
 
 * 灵活运用**常量数组**，会使程序变得更加简洁，Smart Power；
 
-* cctype库函数中的**isdigit，isalpha，toupper**，ccstring中的**memset，strlen，strchr(return char*)**熟记；
+* cctype库函数中的**isdigit，isalpha，toupper**，ccstring中的**memset，strlen，strchr(return char*)** 熟记；
 
 * getchar，fgetc返回值都为int，EOF；
 
