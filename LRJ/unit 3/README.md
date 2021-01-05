@@ -12,6 +12,8 @@
 
 * sprintf，freopen文件重定向
 
+* 尽量避免scanf("%c", &c)的使用，他会把空格回车符都读进来，用用getchar
+
 ~~~
     char s[] = "qwertyuiop";
     s[1] = toupper(s[1])
